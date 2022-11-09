@@ -66,7 +66,7 @@ void print_benchmark(volatile unsigned int *periph_base)
 	throughput = 0.008192/((float)(stop_time - start_time)/125000000.0);
     // how much data was transferred? How long did it take?
   
-    printf("Estimated Transfer throughput = %f Mbytes/sec",throughput);
+    printf("Estimated Transfer throughput = %f Mbytes/sec\n",throughput);
 }
 
 int main()
