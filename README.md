@@ -1,4 +1,4 @@
-Lab6_Serbin
+# Lab6_Serbin
 
 Link to video demo of [test_radio](https://youtu.be/SYoSnHQI_I8) on zybo z7 board
 
